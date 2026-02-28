@@ -164,6 +164,7 @@
 
 ##### Books
 
+- [Daily Office](https://dailyoffice.app/) - Derived from BCP but more straightforward and with many customisation options, can also use as phone app
 - [Internet Archive](https://archive.org/) - Various archived media which is mostly old
 - [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc
 - [Mobilism](https://forum.mobilism.org/index.php) - REQUIRES FREE ACCOUNT: Forum of audio books and other media
