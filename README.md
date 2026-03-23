@@ -6,6 +6,7 @@
 ### Browsing
 
 #### Browsers
+
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - CHECK CURRENT NEWS RELATING TO DATA USAGE: Not based on chromium and fairly easy to switch over to
 
 #### Extensions
@@ -112,6 +113,7 @@
 
 - [AlDente](https://apphousekitchen.com/) - Control battery percentage to extend its life. Idealy have your battery between 40-80% at all times
 - [balenaEtcher](https://etcher.balena.io/) - Useful tool if you're wanting to run linux off of flash drives
+- [Cloudflare Warp](https://one.one.one.one/) - DNS resolver that hides info from isp and theoretically makes internet quicker
 - [DNSSwitcher](http://mattmcneeney.github.io/DNSSwitcher/) - TALK TO ME FIRST: Quickly change your DNS for faster and more secure web performance
 - [FFmpeg](https://ffmpeg.org/) - COMMAND LINE TOOL: Convert audio and video
 - [Kegworks](https://github.com/Kegworks-App/Kegworks) - REQUIRES COMMAND LINE TO INSTALL: Package windows programs into a mac application
@@ -139,6 +141,36 @@
 - [GIMP](https://www.gimp.org/downloads/) - Photo and raster editor
 - [Inkscape](https://inkscape.org/release/) - Vector graphics editor
 - [krita](https://krita.org/en/download/) - Digital art software
+
+## Phone Apps
+
+### Car and Navigation
+
+- [FillUp](https://play.google.com/store/apps/details?id=com.github.wdkapps.fillup&hl=en-US) - Gas mileage log and stats
+- [Waze](https://www.waze.com/) - Gives more responsibility on to you as the driver with quicker and janky routes
+
+### Media
+
+- [NewPipe](https://newpipe.net/) - DO NOT LOG IN - Better Youtube client
+- [NPR](https://www.npr.org/app) - Access podcasts like Radiolab and This American Life
+- [Symfonium](https://www.symfonium.app/) - Ridiculously customisable music player. Costs a little bit for life
+- [Webtoons](https://www.webtoons.com/en/) - Comics of various qualities uploaded for free with ads
+
+### Productivity
+
+- [Bring!](https://www.getbring.com/en/home) - Shopping list
+-[Todoist](https://www.todoist.com/downloads) - Detailed to-do-list website with a lot of rule customisation
+
+### Self Help
+
+- [Finch](https://finchcare.com/) - Habit tracker and social media with a cute birb to motivate you
+- [Focus Friend](https://focusfriend.me/) - Created by Hank Green to get you off your phone by having a bean make socks for you
+- [Sleep](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pli=1) - ONLY FOR ANDROID - Track sleep quality and cycles as well as wake up at the best time between your cycles
+
+### Utilities
+
+- [Cloudflare Warp](https://one.one.one.one/) - DNS resolver that hides info from isp and theoretically makes internet quicker
+- [Syncthing](https://syncthing.net/downloads/) - Automated syncing of folders over wifi with ignore commands and one way file alteration
 
 ## Websites
 
@@ -169,6 +201,7 @@
 - [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc
 - [Mobilism](https://forum.mobilism.org/index.php) - REQUIRES FREE ACCOUNT: Forum of audio books and other media
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
+- [Webtoons](https://www.webtoons.com/en/) - Comics of various qualities uploaded for free with ads
 - [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
 ##### Audio
@@ -184,6 +217,10 @@
 - [9Anime](https://9animetv.to/home) - Stream anime
 - [FullRaces](https://fullraces.com/) - Motorsports Replays
 - [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
+
+### Productivity
+
+- [Todoist](https://app.todoist.com/app) - Detailed to-do-list website with a lot of rule customisation
 
 ### Show Calendars and Aggregators
 
