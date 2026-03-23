@@ -151,6 +151,7 @@
 
 ### Media
 
+- [Khan Academy](https://www.khanacademy.org/) - Brush up on past knowledge or learn new things for free
 - [NewPipe](https://newpipe.net/) - DO NOT LOG IN - Better Youtube client
 - [NPR](https://www.npr.org/app) - Access podcasts like Radiolab and This American Life
 - [Symfonium](https://www.symfonium.app/) - Ridiculously customisable music player. Costs a little bit for life
@@ -193,6 +194,7 @@
 
 - [freemediaheckyeah](https://fmhy.net/) - Site with links to other resources. Don't be stupid, read what they have to say about safety
 - [Internet Archive](https://archive.org/) - Mostly old media, with some hidden gems
+- [Khan Academy](https://www.khanacademy.org/) - Brush up on past knowledge or learn new things for free
 
 ##### Books
 
